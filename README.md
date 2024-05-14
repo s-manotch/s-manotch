@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-manotch
 - 👀 I’m interested in spend 10k hr forcus to something and be expert on it!
-- 🌱 I’m currently learning kong api gateway ,next.js ,html ,css ,react ,nodeJS ,OOP ..etc.
+- 🌱 I’m currently learning Operations eg. CI/CD Docker Kubernetes ..etc.
 - 💞️ I’m looking to collaborate on some ....
 - 📫 How to reach me: ins : s.manotch
 - 😄 Pronouns: mho ,ohm ,sb ,manotch.
