@@ -40,32 +40,6 @@ Because real ops don’t type — they **reuse!!!**.
 
 ---
 
-## 🎯 My Goal
-
-To be *so good they can’t ignore me*.  
-To *focus like a monk* and stack 10,000 hours like LEGO blocks.  
-To *solve problems*, break things (intentionally), and fix them better.
-
----
-
-## 🤐 Bonus Ice-Breaker Jokes (deadpan guaranteed)
-
-- I'm in a relationship... with CI/CD.
-- My Kubernetes cluster ghosted me. Guess it wasn't *persistent* enough.
-- My containers are more stable than my sleep schedule.
-- I don't always debug, but when I do... it's in production.
-
----
-
-## 📋 README Progress
-
-- [x] Add humor  
-- [x] Reveal ambitions  
-- [ ] Achieve DevOps Nirvana  
-- [ ] Get GitHub's Arctic Vault invitation  
-
----
-
 > 💬 Feel free to [open an issue](https://github.com/s-manotch) just to say hi.
 
 ---
