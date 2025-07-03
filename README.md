@@ -5,7 +5,7 @@
 - 📫 How to reach me: ins : s.manotch
 - 😄 Pronouns: mho ,ohm ,sb ,manotch.
 - ⚡ Fun fact: It have 10 type of human that understand binary and not
-- ✋ Time and tide wait for no man
+- ✋ Time and tide are waiting for no man
 <!---
 s-manotch/s-manotch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
