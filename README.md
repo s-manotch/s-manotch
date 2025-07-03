@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @s-manotch
+# 👋 Hi, I’m @s-manotch — aka , ohm, sb, or just Manotch.
 
 👀 I'm investing 10,000 hours to master something — still loading... █████░░░ 60%  
 ❤️ I'm in a relationship... with CI/CD.  
@@ -12,11 +12,10 @@
 - Instagram: [@s.manotch](https://instagram.com/s.manotch)  
 - Here. You're already here. 👈
 
-😎 Pronouns: mho, ohm, sb, manotch (choose your fighter)  
+😎 (choose your fighter)  
 🧩 Fun fact: There are 10 types of people in the world — those who understand binary, and those who don’t.  
 ⏳ Motto: Time and tide wait for no man. Neither does my CI pipeline.
 
----
 
 ## 💻 Random Command I Copy-Paste Daily
 
@@ -24,8 +23,6 @@
 git pull && go build main.go && docker compose down && docker compose up -d
 ```
 Because real ops don’t type — they **reuse!!!**.
-
----
 
 ## 🛠️ My Dev Stack (WIP)
 
@@ -36,13 +33,6 @@ Because real ops don’t type — they **reuse!!!**.
 | Frontend             | Next.js                                             |
 | Observability       | Fluent Bit, Fluentd, Elasticsearch, Grafana, Prometheus |
 | Cloud & Infra       | Private Cloud, AWS, GDCC OpenStack, Huawei Cloud        |
-| Terminal Fu         | `alias docker-compose="docker compose"` 😎              |
-
----
-
-> 💬 Feel free to [open an issue](https://github.com/s-manotch) just to say hi.
-
----
 
 ## 🧰 Tech Toolbox
 
