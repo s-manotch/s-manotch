@@ -1,8 +1,13 @@
 # 👋 Hi, I’m @s-manotch
 
 👀 I'm investing 10,000 hours to master something — still loading... █████░░░ 60%  
-🌱 Currently learning all things *Operations*: CI/CD, Docker, Kubernetes...  
-💞️ Looking to collaborate on something meaningful... or just cool  
+❤️ I'm in a relationship... with CI/CD.  
+👻 My Kubernetes cluster ghosted me. Guess it wasn't persistent enough.  
+🧘 My containers are more stable than my sleep schedule.  
+🔥 I don't always debug, but when I do... it's in production.  
+📶 I don’t always scale services, but when I do, I forget the load balancer.  
+🪢 The only thing more elastic than Elasticsearch is my deadlines.
+
 📫 Reach me:  
 - Instagram: [@s.manotch](https://instagram.com/s.manotch)  
 - Here. You're already here. 👈
