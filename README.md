@@ -13,6 +13,15 @@
 
 ---
 
+## 💻 Random Command I Copy-Paste Daily
+
+```bash
+git pull && go build main.go && docker compose down && docker compose up -d
+```
+Because real ops don’t type — they **reuse!!!**.
+
+---
+
 ## 🛠️ My Dev Stack (WIP)
 
 | Category            | Tools I’m exploring and using                           |
@@ -23,15 +32,6 @@
 | Observability       | Fluent Bit, Fluentd, Elasticsearch, Grafana, Prometheus |
 | Cloud & Infra       | Private Cloud, AWS, GDCC OpenStack, Huawei Cloud        |
 | Terminal Fu         | `alias docker-compose="docker compose"` 😎              |
-
----
-
-## 💻 Random Command I Copy-Paste Daily
-
-```bash
-git pull && go build main.go && docker compose down && docker compose up -d
-```
-Because real ops don’t type — they **reuse!!!**.
 
 ---
 
