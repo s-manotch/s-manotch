@@ -8,6 +8,8 @@
 📶 I don’t always scale services, but when I do, I forget the load balancer.  
 🪢 The only thing more elastic than Elasticsearch is my deadlines.  
 🕵️ When a cable isn’t labeled, I unplug it and wait for someone to scream. (Layer 8 debugging.)
+🔒 I don't remember any of my passwords. That's how secure they are.
+🔐 I configure SSO so often I sometimes forget how to log in manually. 
 
 
 📫 Reach me:  
