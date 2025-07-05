@@ -6,7 +6,9 @@
 🧘 My containers are more stable than my sleep schedule.  
 🔥 I don't always debug, but when I do... it's in production.  
 📶 I don’t always scale services, but when I do, I forget the load balancer.  
-🪢 The only thing more elastic than Elasticsearch is my deadlines.
+🪢 The only thing more elastic than Elasticsearch is my deadlines.  
+🕵️ When a cable isn’t labeled, I unplug it and wait for someone to scream. (Layer 8 debugging.)
+
 
 📫 Reach me:  
 - Instagram: [@s.manotch](https://instagram.com/s.manotch)  
@@ -30,9 +32,10 @@ Because real ops don’t type — they **reuse!!!**.
 |---------------------|---------------------------------------------------------|
 | DevOps              | Docker, Kubernetes, ArgoCD                              |
 | Backend             | Go, Swagger                                             |
-| Frontend             | Next.js                                             |
+| Frontend             | Next.js                                                |
 | Observability       | Fluent Bit, Fluentd, Elasticsearch, Grafana, Prometheus |
 | Cloud & Infra       | Private Cloud, AWS, GDCC OpenStack, Huawei Cloud        |
+| Identity & Security | Okta, Zscaler, ZTNA                                     |
 
 ## 🧰 Tech Toolbox
 
@@ -50,6 +53,10 @@ Because real ops don’t type — they **reuse!!!**.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Huawei%20Cloud-D71A28?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-005B94?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zscaler-0066B3?style=for-the-badge&logo=zscaler&logoColor=white" />
 </p>
 
 
