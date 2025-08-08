@@ -12,19 +12,17 @@
 🔐 I configure SSO so often I sometimes forget how to log in manually.  
 🧲 I'm a Pull Stack Developer. I just pull things off the Internet and put it into my code.  
 🐙 I don't always write scripts — I fork, I clone, I pray.  
-
 🔧 If it works — don’t touch it. If it breaks — ChatGPT it.
 
-😎 (choose your fighter)  
 🧩 Fun fact: There are 10 types of people in the world — those who understand binary, and those who don’t.  
 ⏳ Motto: Time and tide wait for no man. Neither does my CI pipeline.
 
 ## 💻 Random Command I Copy-Paste Daily
-
+Because real ops don’t type — they **reuse!!!**.
 ```bash
 git pull && go build main.go && docker compose down && docker compose up -d
 ```
-Because real ops don’t type — they **reuse!!!**.
+
 
 ## 🛠️ My Dev Stack (WIP)
 
